@@ -1,0 +1,23 @@
+.container {
+  margin: 100px auto;
+  width: 400px;
+  text-align: center;
+  font-family: Arial;
+}
+input {
+  padding: 10px;
+  width: 80%;
+  margin: 10px 0;
+}
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+}
+.feedback {
+  font-size: 18px;
+  margin-top: 10px;
+}
+.error {
+  color: red;
+}
