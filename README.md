@@ -4,7 +4,7 @@
 
 # Clone the repository
 
-    git clone https://github.com/kunalwagh101/brainlabs.git
+    git clone https://github.com/kunalwagh101/brainlabs_advance.git
 
 # Create a virtual environment
 
